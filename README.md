@@ -1,3 +1,5 @@
+# Awesome Serverless
+
 ## Platforms (Hosted)
 
 - [AWS Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay only for the compute time you consume.
