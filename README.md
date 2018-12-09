@@ -30,7 +30,7 @@
 
   设计可以看官方的[presentation](https://docs.google.com/presentation/d/1zdgzSgCfhmF_zK-ziMB_-oqG2C2xVlCE90M1aO70SqU/edit#slide=id.g2d4c809d12_0_1)，可以看看iron.io前CEO谈谈[Why we built Fn Project](https://medium.com/fnproject/8-reasons-why-we-built-the-fn-project-bcfe45c5ae63)
 
-- [Kubeless](https://github.com/kubeless/kubeless) - 自觉是最K8s native的（在Knative出来之后这句话可能要改）。至于为什么这么自信，是因为
+- [Kubeless](https://github.com/kubeless/kubeless) - 作者自觉是最K8s native的（在Knative出来之后这句话可能要改）。Kubeless使用K8S operator去管理函数的生命周期。
 
 - [Qinling](https://github.com/openstack/qinling)(秦岭) - Openstack 上的FaaS，[孔令贤](https://lingxiankong.github.io/index.html)是contributor之一。
 
